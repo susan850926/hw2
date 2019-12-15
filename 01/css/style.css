@@ -1,0 +1,135 @@
+html{
+	width: 100%;
+}
+
+* {
+	box-sizing: border-box;
+}
+p,h1,h2,h3,h4,h4,h6,div,span {
+	font-family:PingFangSC-Regular,sans-serif,Microsoft JhengHei;
+	
+}
+
+p {
+	font-size: 16px;
+}
+
+.navbar-brand img {
+	height: 54px;
+	
+	
+
+}
+.navbar-brand{
+	
+	color: #ffffff;
+	
+}
+.nav-item{
+	margin-left:27.2px;
+}
+
+@media (min-width: 768px) {
+/*nav選單*/
+	.navbar{
+	padding-left:50px!important;
+	padding-right:50px!important; 
+	color: #ffffff;
+	background-color: #2D4059;
+}
+}
+
+.banner {
+	margin-top: 76px;
+	
+}
+
+.banner .container-fluid {
+	padding:0!important;
+	background-color: #2D4059;
+}
+
+
+.about {
+	padding:0px;
+	background-color: #F2F2F2; 
+	
+}
+
+
+.about img {
+	
+	background-color: #F2F2F2;
+}
+.title {
+	font-size:20px;
+	font-weight: bold;
+}
+
+.title_line {
+	border-color:#ffffff;
+	
+}
+
+
+.title_line {
+	margin-bottom: 50px;
+}
+
+.icon{
+	margin-left:2% ;
+	margin-right:1% ;
+}
+
+.icon01{
+	margin-left:1% ;
+	margin-right:1% ;
+}
+
+
+
+
+footer {
+background-color: #2D4059;
+
+padding:20px 0; 
+padding-top: 48.5px;
+color:#ffffff;
+}
+					
+footer p {
+line-height: 39px;
+}	
+img {
+    max-width: 100%;
+    height: auto;
+	}
+.btn_under{
+	position:absolute; 
+	width: 412px;
+	height: 90px;
+	left:80%; 
+	top:75%;
+}
+.husan
+{
+	position:absolute; 
+	
+	left:0%; 
+	top:75%;
+}
+.namen{
+	position:absolute; 
+	left:10%; 
+	top:86%;
+	color:white;
+	line-height: 45px;
+}
+.horsan{
+	color: #2D4059;
+	font-size: 10px;
+}
+.game{
+	color: #2D4059;
+	line-height: 45px;
+}
